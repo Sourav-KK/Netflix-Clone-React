@@ -1,0 +1,1 @@
+This is a simple Netflix clone created using React using The Movie DataBase (TMBD). Axios is used to retrieve the movie details. This project helps one to understand the basics of React. The concept of reusability and the hooks are used in the project to fully understand the concepts.  
